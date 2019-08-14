@@ -1,3 +1,4 @@
+//Determina quantos dígitos existe em fatorial de N na base B
 int NumOfDigitsInFactorial(int N, int B){
 	double logFatN = 0;
 	for (int i = 1; i <= N; i++)
